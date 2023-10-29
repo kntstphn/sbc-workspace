@@ -169,3 +169,6 @@ compile_commands.json
 
 bun.lockb
 pnpm-lock.yaml
+
+#hello_solana
+hello_solana/target
