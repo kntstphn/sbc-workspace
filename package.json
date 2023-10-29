@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "systemprogram":  "nodemon 01-system-program/main.ts"
+    "systprog": "nodemon 01-system-program/main.ts",
+    "tokprog": "tsx 02-token-program/main.ts"
   },
   "keywords": [],
   "author": "",
